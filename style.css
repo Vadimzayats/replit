@@ -1,0 +1,14 @@
+.game-container {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    width: 500px;
+    border: 1px solid black;
+}
+.dino {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
